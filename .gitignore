@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+output/*.csv
+input/*.xlsx
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Loose working inputs (requirements docs + raw deduction data) — not source.
+/Business-Online_Transaction-Import-and-Export-File-Formats_guide.pdf
+/Entelect Payment Initiative.pdf
+/Deduction list.xlsx
